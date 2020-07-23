@@ -1,7 +1,7 @@
 # DETECTING CRYPTOCURRENCY SCAMS: 
-A MACHINE LEARNING APPROACH
-Dylan Chopra
-Rishabh Patel
+# A MACHINE LEARNING APPROACH
+# Dylan Chopra
+# Rishabh Patel
 
 
 A collection of python scripts used to aid in the research and detection of cryptocurrency scams. 
